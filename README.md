@@ -4,7 +4,7 @@
 ## Control Panel for AI Apps
 ```bash
 pip install portkey-ai
-```
+``` 
 
 </div>
 
